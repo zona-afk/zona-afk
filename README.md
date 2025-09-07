@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zona,2nd yr CS student</h2>
+<h2 align="left">Hi 👋! My name is Zona, 2nd yr CS student</h2>
 
 ###
 
