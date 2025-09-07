@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is Zona and I'm a btech 2nd yr CS student from INDIA</p>
+<h2 align="left">Hi 👋! My name is Zona and I'm a btech 2nd yr CS student from INDIA</h2>
 
 ###
 
